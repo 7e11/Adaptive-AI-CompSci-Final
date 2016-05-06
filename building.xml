@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- building.xml -->
+<buildings>
+
+<!-- EDGE BUILDINGS + EXTENSIONS-->
+<building name="Bottom Edge">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "0"  y = "682" />
+		<point x = "0" y = "660" />
+		<point x = "616" y = "660" />
+		<point x = "616" y = "682" />
+	</contour>
+</building>
+
+<building name="Top Edge">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "0"  y = "0" />
+		<point x = "0" y = "22" />
+		<point x = "616" y = "22" />
+		<point x = "616" y = "0" />
+	</contour>
+</building>
+
+<building name="Top Edge Hang">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "286" y = "110" />
+		<point x = "286"  y = "22" />
+		<point x = "330" y = "22" />
+		<point x = "330" y = "110" />
+	</contour>
+</building>
+
+<building name="Left Edge">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "0" y = "22" />
+		<point x = "0"  y = "660" />
+		<point x = "22" y = "660" />
+		<point x = "22" y = "22" />
+	</contour>
+</building>
+
+<building name="Right Edge">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "594" y = "22" />
+		<point x = "594"  y = "660" />
+		<point x = "616" y = "660" />
+		<point x = "616" y = "22" />
+	</contour>
+</building>
+
+<building name="Left Edge Block">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "22" y = "198" />
+		<point x = "22"  y = "440" />
+		<point x = "132" y = "440" />
+		<point x = "132" y = "198" />
+	</contour>
+</building>
+
+<building name="Right Edge Block">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "484" y = "198" />
+		<point x = "484"  y = "440" />
+		<point x = "594" y = "440" />
+		<point x = "594" y = "198" />
+	</contour>
+</building>
+
+<building name="Bottom Left Edge Extension">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "22" y = "528" />
+		<point x = "22" y = "572" />
+		<point x = "66" y = "572" />
+		<point x = "66" y = "528" />
+	</contour>
+</building>
+
+<building name="Bottom Right Edge Extension">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "550" y = "528" />
+		<point x = "550" y = "572" />
+		<point x = "594" y = "572" />
+		<point x = "594" y = "528" />
+	</contour>
+</building>
+
+
+<!-- BOTTOM 1/2 BUILDINGS-->
+
+<building name="Bottom Right Baton Stright">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "352" y = "638" />
+		<point x = "352" y = "594" />
+		<point x = "572" y = "594" />
+		<point x = "572" y = "638" />
+	</contour>
+</building>
+
+<building name="Bottom Right Baton Extension">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "418" y = "528" />
+		<point x = "418" y = "594" />
+		<point x = "462" y = "594" />
+		<point x = "462" y = "528" />
+	</contour>
+</building>
+
+<building name="Bottom Left Baton Stright">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "44" y = "638" />
+		<point x = "44" y = "594" />
+		<point x = "264" y = "594" />
+		<point x = "264" y = "638" />
+	</contour>
+</building>
+
+<building name="Bottom Left Baton Extension">
+	<pos x="0" y = "0" />
+	<contour>
+		<point x = "154" y = "528" />
+		<point x = "154" y = "594" />
+		<point x = "198" y = "594" />
+		<point x = "198" y = "528" />
+	</contour>
+</building>
+
+</buildings>
